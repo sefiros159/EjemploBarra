@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/opcion1"
+        android:title="Opción 1"
+        android:icon="@mipmap/ic_cloud"
+        />
+    <item
+        android:id="@+id/opcion2"
+        android:title="Opcion 2"
+        android:icon="@mipmap/ic_sound"/>
+
+    <item
+        android:id="@+id/opcion3"
+        android:title="Opción 3"
+        android:icon="@mipmap/ic_umbrella"/>
+        //app:showAsAction="always"
+
+    <item
+        android:id="@+id/opcion4"
+        android:title="Opción 4"
+        android:icon="@mipmap/ic_sun"
+        />
+
+</menu>
